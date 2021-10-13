@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    background-image: linear-gradient(pink,yellow,lavender,orange,green);
+}
+
+
+h1{
+    font-size: 5rem;
+    font-family: 'Allura', cursive;
+    text-shadow: 1px 1px;
+}
+#family_img{
+    height: 340px;
+    width: 340px;
+}
